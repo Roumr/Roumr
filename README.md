@@ -1,4 +1,5 @@
 
+
 # Arturo Ramirez
 
 Me gusta el mundo de la tecnologia e interactuar con el mundo real constantemente, mediante sensores y mas. Me gusta la automatizacion industrial, la investigacion y el desarrollo de nuevas tecnologias, me considero un buen diseñador, minimalista y elegante.
@@ -7,7 +8,9 @@ Me gusta el mundo de la tecnologia e interactuar con el mundo real constantement
 ## Contacto
 
 Email: Reyr@outlook.jp
-linkedin: in
+linkedin: linkedin.com/in/reyr/
+
+
 
 <!--
 **Roumr/Roumr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
