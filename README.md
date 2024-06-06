@@ -18,10 +18,6 @@ Me gusta el mundo de la tecnologia e interactuar con el mundo real constantement
 ## Contacto
 
 Email: Reyr@outlook.jp
-linkedin: linkedin.com/in/reyr/
-
-
-
 <!--
 **Roumr/Roumr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
